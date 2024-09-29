@@ -16,6 +16,11 @@ HelloToast est une application Android simple qui illustre des interactions basi
 Lorsque l'utilisateur appuie sur ce bouton, un message toast (petite fenêtre contextuelle) s'affiche en bas de l'écran avec le texte "Hello Toast !".
 - Bouton Count :
 Chaque appui sur ce bouton incrémente le compteur et met à jour le nombre affiché à l'écran.
+## Technologies Utilisées
+
+- **Plateforme** : Android
+- **Langage de programmation** : Kotlin/Java
+- **Framework** : Android SDK
 ## Démonstratin védio
 [ex1_record.webm](https://github.com/user-attachments/assets/52c0412f-ec2d-4a90-9c45-c376bb25f5c3)
 
