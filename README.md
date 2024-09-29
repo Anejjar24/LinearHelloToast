@@ -11,6 +11,8 @@ HelloToast est une application Android simple qui illustre des interactions basi
 ## Interface Utilisateur
 - L'écran contient deux boutons : Toast et Count.
 - Un grand nombre est affiché au centre de l'écran, commençant à 0. Ce nombre est mis à jour à chaque pression sur le bouton Count.
+## Mise en Page
+L'interface utilise un **LinearLayout** pour organiser les éléments de manière verticale. Cela permet une disposition simple et claire des boutons et du compteur.
 ## Comment ça fonctionne
 - Bouton Toast :
 Lorsque l'utilisateur appuie sur ce bouton, un message toast (petite fenêtre contextuelle) s'affiche en bas de l'écran avec le texte "Hello Toast !".
